@@ -1,0 +1,6 @@
+the latest version - Python 3+: https://www.python.org/downloads/
+
+modules (Install the non-built-in ones with:):
+"pip install requests colorama" or "pip3 install requests colorama"
+
+t.me/R00txAttacker for Contact.
