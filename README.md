@@ -1,5 +1,7 @@
 # 🌐 Site Scraper v2.7
 
+![Demo Screenshot](screenshot.png)
+
 A lightweight Python scraper built with [requests](https://docs.python-requests.org/en/latest/) and [colorama](https://pypi.org/project/colorama/).  
 It extracts data from websites quickly and efficiently with multi-threading support.
 
