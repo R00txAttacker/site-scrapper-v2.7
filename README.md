@@ -21,6 +21,6 @@ It extracts data from websites quickly and efficiently with multi-threading supp
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/site-scraper.git
+git clone https://github.com/R00txAttacker/site-scraper.git
 cd site-scraper
 pip install -r requirements.txt
